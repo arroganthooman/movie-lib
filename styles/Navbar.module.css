@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,700;1,400&display=swap');
+
+
+.navfont {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: #fff;
+}
+
+.buttonlink:hover button p {
+    color: black;
+}
